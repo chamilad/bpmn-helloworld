@@ -1,5 +1,5 @@
 # bpmn-helloworld
-> HelloWorl with BPMN in WSO2 EI 6.1.1 and WSO2 EI 6.1.1 Tooling
+> HelloWorld with BPMN in WSO2 EI 6.1.1 and WSO2 EI 6.1.1 Tooling
 
 ## Try This
 1. Download [WSO2 EI 6.1.1](https://wso2.com/integration#download), or retrieve through the [WSO2 Update Manager](http://wso2.com/wum).
