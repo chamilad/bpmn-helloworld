@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_77"/>
+	<classpathentry kind="lib" path="/home/chamilad/dev/QSP/Gartner-2017/wso2ei-6.1.1/wso2/components/plugins/activiti-all_5.21.0.wso2v1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.wso2.carbon.HelloWorldServiceTask</groupId>
+  <artifactId>HelloWorldServiceTask</artifactId>
+  <version>1.0.0</version>
+  <name>HelloWorldServiceTask</name>
+  <description>HelloWorldServiceTask</description>
+  <dependencies>
+    <dependency>
+      <groupId>org.wso2.orbit.org.activiti</groupId>
+      <artifactId>activiti-all</artifactId>
+      <version>5.21.0.wso2v1</version>
+    </dependency>
+  </dependencies>
+  <repositories>
+    <repository>
+      <id>wso2-maven2-repository-1</id>
+      <url>http://maven.wso2.org/nexus/content/groups/wso2-public/</url>
+    </repository>
+  </repositories>
+  <pluginRepositories>
+    <pluginRepository>
+      <id>wso2-maven2-repository-1</id>
+      <url>http://maven.wso2.org/nexus/content/groups/wso2-public/</url>
+    </pluginRepository>
+  </pluginRepositories>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+  </build>
+</project>
