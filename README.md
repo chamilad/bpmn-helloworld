@@ -51,3 +51,6 @@ Using Java memory options: -Xms256m -Xmx1024m
 ...
 Hello World from the Hello World Service Task!!!
 ```
+
+## Source
+You can explore the source attached, with the use of the WSO2 EI 6.1.1 Tooling. This can be downloaded from the same page as [above](https://wso2.com/integration#download), in the "Download Tooling" section. WSO2 EI 6.1.1 Tooling is based on Eclipse Mars. 
